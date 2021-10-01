@@ -1,8 +1,10 @@
-node_modules
-bin
-.DS_Store
-*.zip
-items
-**/src/*.js
-*/tsconfig.item.json
-shared-node_modules
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
